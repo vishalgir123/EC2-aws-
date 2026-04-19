@@ -1,0 +1,49 @@
+✅ Simple Definition (Easy Language)
+
+Amazon EC2 (Elastic Compute Cloud) is a service from Amazon Web Services that lets you create virtual servers in the cloud.
+
+👉 In simple words:
+EC2 = a computer (server) on the internet that you can use anytime
+
+🎯 Interview Answer (Short & Clear)
+
+You can say:
+
+“Amazon EC2 is a cloud computing service that provides scalable virtual servers. It allows users to run applications without managing physical hardware, and we can easily start, stop, and scale instances based on requirements.”
+
+🧠 Key Points to Remember
+EC2 = virtual machine (server)
+Runs in the cloud (no physical system needed)
+You can:
+Start / Stop / Restart
+Install software (like Nginx, Docker)
+Choose OS (Linux, Windows)
+Pay only for usage 💰
+📦 Real-Life Example
+Your laptop = physical computer
+EC2 = online laptop/server
+You connect using SSH and use it like your own system
+💬 Interview Q&A
+
+Q1: What is an EC2 instance?
+👉 A virtual server running on EC2.
+
+Q2: Why use EC2?
+👉 To run applications without buying hardware.
+
+Q3: What is AMI?
+👉 A template used to launch EC2 (OS + software).
+
+💡 One-Line Memory Trick
+
+👉 EC2 = Rent a server online
+
+If you want, I can also explain:
+✔ 
+EC2 + VPC connection
+✔ 
+Step-by-step launch EC2
+✔ 
+Real interview questions
+
+Just tell me 👍
